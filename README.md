@@ -6,7 +6,7 @@ AWS Lambda and Amazon API Gateway.
 how are you
 What's Here
 -----------
-
+happy diwali fox
 This sample includes:
 
 * README.md - this file
